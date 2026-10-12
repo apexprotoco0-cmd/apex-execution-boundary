@@ -2,7 +2,7 @@
 
 ## Lead Security Maintainer
 
-Yehonatan Kanani is the Lead Security Maintainer for
+YEHONATAN ELIAS CNANIE is the Lead Security Maintainer for
 apex-execution-boundary.
 
 ## Disclosure Statement
